@@ -1,0 +1,8 @@
+---
+applications:
+- name: pratik-php
+  memory: 128M
+  instances: 1
+  
+
+
